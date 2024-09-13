@@ -10,10 +10,10 @@ We are here basically making the multilingual speech to speech Question Answerin
 
 ## Installation
 
-clone this repo [pip](https://github.com/pankaj10032/hackout2023_projects) to install foobar.
+clone this repo [pip](https://github.com/Tanishq665/MulitiLingual-VoiceQA) to install foobar.
 
 ```bash
-git clone https://github.com/pankaj10032/hackout2023_projects.git
+git clone https://github.com/Tanishq665/MulitiLingual-VoiceQA.git
 ```
 Since I was running the code on server that's why I have no option of collection audio so I have collected audio manually by running the file , make sure to specify the path of audio in the **output_filename** otherwise just provide filename so it will save the Audio file in the same directory in which audio.py is present, make sure that format of the Audio file should be ".flac".
 
